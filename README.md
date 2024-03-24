@@ -93,7 +93,7 @@ The dataset stores the data related to **each movement in a separate CSV file**.
 Each file has the same columns in the same order. To facilitate using the data programmatically, the files use the following names for the variables:
 
 | Variable  | Name in dataset   | Units/format  |
-| ---       | ---:      | ---:      |
+| :---       | :---      | ---:      |
 | Ship name | ship | *ship#*  | 
 | Ship type |  type | *"General Cargo"* or *"Bulk carrier"*  |
 | Date of stay |  time | MM/DD/YYYY HH:mm |
