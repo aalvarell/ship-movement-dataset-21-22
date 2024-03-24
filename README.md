@@ -133,7 +133,6 @@ Each file has the same columns in the same order. To facilitate using the data p
 
 
 ----
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-
+[![License: CC-BY-SA-4.0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-sa.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 
 [^1]: > Due to restrictions imposed during and after COVID-19, we could not access the ships, so the IMU could not be used to measure the roll movement.
