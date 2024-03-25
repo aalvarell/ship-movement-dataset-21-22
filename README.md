@@ -1,6 +1,6 @@
 # Ship movements dataset
 
-This dataset contains the movements of 21 ships recorded in the [Outer Port of Punta Langosteira](https://goo.gl/maps/UG8zR274TrZEUSj66 "Outer Port of Punta Langosteira, Spain") (A Coruña, Spain) from 2021 until 2023.
+This dataset contains the movements of 21 ships recorded in the [Outer Port of Punta Langosteira](https://goo.gl/maps/UG8zR274TrZEUSj66 "Outer Port of Punta Langosteira, Spain") (A Coruña, Spain) from 2021 until 2022.
 
 The dataset is intended to be used to train supervised Machine Learning models, so each file has input variables (predictors) and output variables (value(s) to predict). There are three types of __input variables__: meteorological conditions (weather conditions and sea state), ship characteristics, and berthing location. The __output variables__ are the ship's movements.
 
