@@ -1,3 +1,7 @@
+[![DOI](https://zenodo.org/badge/776742075.svg)](https://doi.org/10.5281/zenodo.10866126)
+
+[![License: CC-BY-SA-4.0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-sa.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
+
 # Ship movements dataset
 
 This dataset contains the movements of 21 ships recorded in the [Outer Port of Punta Langosteira](https://goo.gl/maps/UG8zR274TrZEUSj66 "Outer Port of Punta Langosteira, Spain") (A Coruña, Spain) from 2021 until 2022.
@@ -131,10 +135,6 @@ Each file has the same columns in the same order. To facilitate using the data p
 [4]: https://doi.org/10.6119/JMST.2018.04_(2).0011
 [5]: http://cma.puertocoruna.com/intranet/BancoDatos/bdAccesoDatosPE.aspx
 
-
 ----
-[![License: CC-BY-SA-4.0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-sa.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
-
-[![DOI](https://zenodo.org/badge/776742075.svg)](https://zenodo.org/doi/10.5281/zenodo.10866126)
 
 [^1]: > Due to restrictions imposed during and after COVID-19, we could not access the ships, so the IMU could not be used to measure the roll movement.
