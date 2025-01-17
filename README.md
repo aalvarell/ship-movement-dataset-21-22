@@ -1,6 +1,6 @@
 [![DOI](https://zenodo.org/badge/776742075.svg)](https://doi.org/10.5281/zenodo.10866126)
 
-[![License: CC-BY-SA-4.0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-sa.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
+<!-- [![License: CC-BY-SA-4.0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-sa.svg)](https://creativecommons.org/licenses/by-sa/4.0/) -->
 
 # Ship movements dataset
 
